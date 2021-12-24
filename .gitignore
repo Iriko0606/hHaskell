@@ -1,0 +1,7 @@
+.stack-work/
+LICENSE
+.DS_Store
+*.iml
+*.md
+.idea/
+*~
